@@ -9,8 +9,8 @@
 #include "SX1272.h"
 #include <ArduinoJson.h>
 
-#define WIFI_AP "SEIP7"
-#define WIFI_PASSWORD "sorocaba2017"
+#define WIFI_AP "UIDD"
+#define WIFI_PASSWORD "password"
 
 
 // Initialize the Ethernet client object
